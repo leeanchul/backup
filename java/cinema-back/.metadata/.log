@@ -1,0 +1,165 @@
+!SESSION 2026-02-11 13:54:11.925 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-11 13:54:13.822
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-11 13:54:40.896
+!MESSAGE Logback config file: C:\java\cinema-back\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-02-11 13:54:54.193
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-02-11 13:54:54.193
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-11 13:54:59.900
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\lac'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:41.349
+!MESSAGE Classpath changed for project: SpringJWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:41.349
+!MESSAGE Classpath changed for project: board-backend
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:41.501
+!MESSAGE Classpath changed for project: education
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:48.588
+!MESSAGE Classpath changed for project: SpringJWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:59.552
+!MESSAGE Classpath changed for project: SpringJWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:59.566
+!MESSAGE Boot project ADDED: SpringJWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:59.567
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:59.630
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:59.647
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2026-02-11 13:56:59.654
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 2000
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:59.742
+!MESSAGE Classpath changed for project: SpringJWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:59.743
+!MESSAGE Classpath changed for project: board-backend
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:56:59.944
+!MESSAGE Classpath changed for project: education
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:57:10.426
+!MESSAGE Classpath changed for project: board-backend
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:57:10.481
+!MESSAGE Boot project ADDED: board-backend
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:57:10.536
+!MESSAGE Classpath changed for project: board-backend
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-11 13:57:10.587
+!MESSAGE Classpath changed for project: education
+!SESSION 2026-02-12 08:41:28.015 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-12 08:41:29.174
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-12 08:41:32.571
+!MESSAGE Logback config file: C:\java\cinema-back\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2026-02-12 08:41:35.390
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-02-12 08:41:35.391
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-12 08:41:41.071
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2026-02-12 08:41:41.100
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17364
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-12 08:41:44.502
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\lac'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-12 08:41:45.047
+!MESSAGE Boot project ADDED: SpringJWT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-12 08:41:45.047
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-12 08:41:45.050
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-02-12 08:41:45.055
+!MESSAGE Boot project ADDED: board-backend
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2026-02-12 08:41:50.221
+!MESSAGE executing callback sts4.classpath.cOvkrTzq FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2026-02-12 08:41:50.222
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
