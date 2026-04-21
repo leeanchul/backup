@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;TestJwt&apos;&#x0D;&#x0A;- Original project: &apos;TestJwt&apos;&#x0D;&#x0A;- Original element: &apos;TestJwt/src/main/resources/templates&apos;" description="Delete element" element1="/src\/main\/resources=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;templates" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1739511769330" subPackages="false" version="1.0"/>
-</session>

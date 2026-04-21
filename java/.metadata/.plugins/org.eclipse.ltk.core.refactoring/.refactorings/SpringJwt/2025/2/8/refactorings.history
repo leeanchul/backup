@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move &apos;pom.xml&apos; to &apos;SpringJWT&apos;" description="Move &apos;pom.xml&apos; to &apos;SpringJWT&apos;" destination="/SpringJWT" element1="/cinema-back/pom.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1739956443802" updateReferences="true"/>
-</session>

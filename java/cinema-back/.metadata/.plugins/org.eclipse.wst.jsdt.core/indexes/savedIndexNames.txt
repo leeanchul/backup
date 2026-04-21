@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\java\cinema-back\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4206826086.index
-969446571.index
-586426324.index
-2762452384.index
-1185395459.index
-1463847514.index
